@@ -27,10 +27,9 @@ CredBuzz is a collaborative platform where users can exchange credits for tasks 
 3. **Credit System**: Users earn credits for completing tasks and can use these credits to request services.
 4. **Task Marketplace**: A central hub where all available tasks are listed, allowing users to browse and select tasks that match their skills and interests.
 5. **Ratings & Reviews**: After a task is completed, users can rate and review each other, ensuring a trustworthy community.
-6. **Notifications**: Users receive notifications for new tasks, task completions, and credit updates.
-7. **AI-Powered Recommendations**: Using AI to suggest tasks to users based on their previous activities and preferences.
-8. **Messaging System**: Users can communicate with each other to clarify task details and coordinate work.
-9. **Analytics & Reports**: Users can track their activity, credits earned and spent, and gain insights into their contributions.
+6. **AI-Powered Recommendations**: Using AI to suggest tasks to users based on their previous activities and preferences.
+7. **Messaging System**: Users can communicate with each other to clarify task details and coordinate work.
+8. **Analytics & Reports**: Users can track their activity, credits earned and spent, and gain insights into their contributions.
 
 ### Additional Features that can be implemented:
 1. **Mobile Application**: Developing a mobile app to increase accessibility and user engagement.
