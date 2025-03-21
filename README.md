@@ -59,3 +59,50 @@ CredBuzz is a collaborative platform where users can exchange credits for tasks 
 ### Deployment
 - **Heroku**: For deploying the backend server.
 - **Netlify**: For deploying the frontend.
+
+# Week 1-2: Project Setup
+- Initialize project repository and set up development environment.
+- Build a project roadmap (deliverables and deadlines for team members).
+- Design UI/UX mockups for Task Marketplace and User Profiles.
+- Finalize database schema for users, tasks, and credit transactions.
+
+"Set up project repository, UI/UX mockups, and database schema."
+
+# Week 2-3: Backend Development
+- Install and configure Node.js, Express.js, and MongoDB.
+- Implement JWT-based authentication (Registration, Login, Logout).
+- Develop CRUD APIs for user profiles and tasks.
+- Test and validate API endpoints using Postman.
+
+"Backend setup with JWT-based authentication and CRUD APIs."
+
+# Week 3-4: Frontend Development
+- Initialize React.js project with Material-UI for styling.
+- Implement routing for Home, Marketplace, and Profile pages.
+- Build User registration and login forms.
+- Create Task marketplace interface for displaying available tasks.
+- Integrate frontend with backend APIs for data exchange.
+
+"Frontend setup with routing, core components, and API integration."
+
+# Week 4-5: Core Features Implementation
+- Build a Credit System (earn and spend credits via tasks).
+- Integrate Socket.io for real-time Notifications.
+- Add Ratings & Reviews feature (store and retrieve ratings in database).
+
+ "Added Credit System, Notifications, and Ratings & Reviews."
+
+# Week 5-6: Advanced Features
+- Integrate Firebase for real-time messaging between users.
+- Implement AI-powered task recommendations based on user preferences.
+- Develop basic analytics to display user activities and credit history.
+
+ "Advanced features: Firebase messaging, AI recommendations, and user analytics."
+
+# Week 6: Testing and Deployment
+- Conduct end-to-end testing for frontend and backend.
+- Fix bugs and optimize performance for responsiveness and loading speed.
+- Deploy the backend to Heroku and the frontend to Netlify.
+- Collect user feedback for future improvements.
+
+ "End-to-end testing, optimizations, and deployment on Heroku/Netlify."

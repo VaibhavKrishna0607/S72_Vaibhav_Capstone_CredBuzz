@@ -6,9 +6,11 @@ const taskSchema = new mongoose.Schema({
     credits:{type:Number, required:true},
     createdBy:{type:mongoose.Schema.Types.ObjectId, ref:'User'},
     claimedBy:{type:mongoose.Schema.Types.ObjectId, ref:'User'},
-    // status: { type: String, enum: ['open', 'in-progress', 'completed'], default: 'open' },
-    createdAt: { type: Date, default: Date.now },
-    updatedAt: { type: Date, default: Date.now }
-});
+    status: { type: String, enum: ['open', 'in-progress', 'completed'], default: 'open' },
+    
+},{
+    timestamps: true
+}
+);
 
 module.exports = mongoose.model('Task', taskSchema);
