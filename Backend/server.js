@@ -7,7 +7,7 @@ const port = 3000
 const MONGO_URI = process.env.MONGO_URI
 
 mongoose.connect(MONGO_URI)
-.then(()=>console.log('Hello'))
+.then(()=>console.log('Connected to database!'))
 .catch((err)=>console.error('There was a error in connecting the database: ',err));
 
 app.get('/',(req,res)=>{
