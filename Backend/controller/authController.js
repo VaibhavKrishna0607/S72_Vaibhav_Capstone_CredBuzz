@@ -1,4 +1,3 @@
-
 const User = require('../model/user');
 const jwt = require('jsonwebtoken');
 
@@ -11,7 +10,7 @@ const generateToken = (id) => {
 
 // @desc    Get current logged in user
 // @route   GET /api/auth/me
-// @access  Private
+
 exports.getMe = async (req, res) => {
     try {
       const user = await User.findById(req.user.id);
