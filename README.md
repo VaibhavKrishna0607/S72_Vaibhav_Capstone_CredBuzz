@@ -58,7 +58,7 @@ CredBuzz is a collaborative platform where users can exchange credits for tasks 
 
 ### Deployment
 - **Render**: For deploying the backend server.
-- **Netlify/Vercel**: For deploying the frontend.
+- **Vercel/Netlify**: For deploying the frontend.
 
 # Week 1-2: Project Setup
 - Initialize project repository and set up development environment.
