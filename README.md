@@ -105,4 +105,4 @@ CredBuzz is a collaborative platform where users can exchange credits for tasks 
 - Deploy the backend to Heroku and the frontend to Netlify.
 - Collect user feedback for future improvements.
 
- "End-to-end testing, optimizations, and deployment on Heroku/Netlify."
+ "End-to-end testing, optimizations, and deployment on Render/Netlify/Vercel."
