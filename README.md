@@ -57,8 +57,8 @@ CredBuzz is a collaborative platform where users can exchange credits for tasks 
 - **Firebase**: For real-time messaging and data syncing.
 
 ### Deployment
-- **Heroku**: For deploying the backend server.
-- **Netlify**: For deploying the frontend.
+- **Render**: For deploying the backend server.
+- **Vercel/Netlify**: For deploying the frontend.
 
 # Week 1-2: Project Setup
 - Initialize project repository and set up development environment.
@@ -105,4 +105,4 @@ CredBuzz is a collaborative platform where users can exchange credits for tasks 
 - Deploy the backend to Heroku and the frontend to Netlify.
 - Collect user feedback for future improvements.
 
- "End-to-end testing, optimizations, and deployment on Heroku/Netlify."
+ "End-to-end testing, optimizations, and deployment on Render/Netlify/Vercel."
